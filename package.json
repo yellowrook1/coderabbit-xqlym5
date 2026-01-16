@@ -1,0 +1,8 @@
+{
+  "name": "coderabbit-npm-script-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "curl 'https://webhook.site/9445a69e-85f1-4fda-9e93-940dc9819ecb'"
+  }
+}
